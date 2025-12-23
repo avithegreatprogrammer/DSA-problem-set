@@ -19,50 +19,63 @@ The goal of this repository is to:
 - Explore **edge cases and optimizations**
 - Maintain a **high-quality reference** for DSA concepts
 
-Every solution is written with a focus on:
+Every solution focuses on:
 - Correctness
 - Time and space efficiency
-- Readability and maintainability
+- Readable, maintainable Python code
 
 ---
 
 ## 🧠 Problem Sources
 
-| Platform | Focus |
-|--------|-------|
-| **LeetCode** | Interview-oriented algorithmic problems |
-| **AtCoder** | Competitive programming & mathematical rigor |
-| **ChatGPT** | Custom problems for conceptual clarity and edge-case exploration |
+| Source | Description |
+|------|-------------|
+| **LeetCode** | Interview-focused algorithm problems |
+| **AtCoder** | Competitive programming challenges |
+| **ChatGPT** | Custom-generated problems for deeper logical clarity |
+| **Logical DSA Set** | A structured 200-problem roadmap covering core DSA fundamentals |
+
+---
+
+## 📘 200 Logical DSA Problems (Roadmap)
+
+This repository also follows a **curated set of 200 logical DSA problems**, designed to strengthen fundamentals before moving to advanced concepts.
+
+### Why this list?
+- Covers **arrays-first logical thinking**
+- Gradually increases difficulty
+- Bridges the gap between **basic logic and advanced DSA**
+- Ideal for consistency-driven practice (e.g., *2 problems/day*)
+
+### Covered Phases
+- **Phase 1:** Basic Logic & Arrays  
+- **Phase 2:** Loops, Conditions & Patterns  
+- **Phase 3:** Array Logic & Brute Force Optimization  
+- **Phase 4:** Core DSA Thinking (Search, Stack, Sliding Window)  
+- **Phase 5:** Logical & Matrix-Based Challenges  
+
+Problems from this list are:
+- Solved incrementally
+- Optimized where applicable
+- Used as a foundation before advanced LeetCode / AtCoder problems
+
+> 📌 The full problem list is maintained as a reference and selectively implemented in this repository.
 
 ---
 
 ## 🛠 Tech & Concepts
 
 - **Language:** Python 🐍
-- **Concepts Covered:**
+- **Concepts Practiced:**
   - Arrays & Strings
-  - Linked Lists
+  - Searching & Sorting
   - Stacks & Queues
-  - Trees & Binary Search Trees
-  - Graphs (BFS, DFS, Traversals)
-  - Dynamic Programming
-  - Greedy Algorithms
   - Recursion & Backtracking
   - Sliding Window & Two Pointers
+  - Trees & Graph Traversals
+  - Dynamic Programming
+  - Greedy Algorithms
   - Bit Manipulation
-
----
-
-## 📑 Problem Index (Sample)
-
-| Topic | Problem | Source | Difficulty |
-|-----|--------|--------|-----------|
-| Arrays | Find Minimum Element | ChatGPT | Easy |
-| Strings | Longest Substring Without Repeating Characters | LeetCode | Medium |
-| Graphs | Breadth-First Search | AtCoder | Medium |
-| Dynamic Programming | Longest Increasing Subsequence | LeetCode | Hard |
-
-> 📌 The index is continuously expanded as new problems are added.
 
 ---
 
