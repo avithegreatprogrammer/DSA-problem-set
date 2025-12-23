@@ -1,0 +1,207 @@
+200 Logical Coding Problems for DSA Beginners
+Solve 2 problems per day • Designed for beginners (Arrays-first approach)
+Phase 1: Basic Logic & Arrays (1–40)
+● 1. Find sum of array elements
+● 2. Find average of array
+● 3. Find maximum element
+● 4. Find minimum element
+● 5. Count even numbers
+● 6. Count odd numbers
+● 7. Reverse an array
+● 8. Copy one array to another
+● 9. Print array in reverse order
+● 10. Find second largest element
+● 11. Find second smallest element
+● 12. Check if array is sorted
+● 13. Count positive numbers
+● 14. Count negative numbers
+● 15. Find difference between max and min
+● 16. Replace all zeros with ones
+● 17. Print elements at even index
+● 18. Print elements at odd index
+● 19. Find product of array elements
+● 20. Find sum of even numbers
+● 21. Find sum of odd numbers
+● 22. Find frequency of a given number
+● 23. Find smallest even number
+● 24. Find largest odd number
+● 25. Remove duplicates (simple logic)
+● 26. Count duplicates
+● 27. Left rotate array by 1
+● 28. Right rotate array by 1
+● 29. Swap first and last elements
+● 30. Find index of an element
+● 31. Check if array contains a value
+● 32. Merge two arrays
+● 33. Find common elements in two arrays
+● 34. Find union of two arrays
+● 35. Find intersection of two arrays
+● 36. Print alternate elements
+● 37. Find missing number (1 to N)
+● 38. Find array length without using length function
+● 39. Check if all elements are unique
+● 40. Replace negative numbers with zero
+Phase 2: Loops, Conditions & Patterns (41–80)
+● 41. Print number triangle
+● 42. Print star square
+● 43. Print star pyramid
+● 44. Print inverted pyramid
+● 45. Print Floyd’s triangle
+● 46. Print hollow square
+● 47. Print diagonal pattern
+● 48. Count digits in a number
+● 49. Reverse a number
+● 50. Check palindrome number
+● 51. Check prime number
+● 52. Print primes up to N
+● 53. Sum of digits
+● 54. Armstrong number check
+● 55. Fibonacci series
+● 56. Find GCD
+● 57. Find LCM
+● 58. Count vowels in a string
+● 59. Reverse a string
+● 60. Check palindrome string
+● 61. Count words in string
+● 62. Find longest word
+● 63. Convert lowercase to uppercase
+● 64. Remove spaces from string
+● 65. Find ASCII value
+● 66. Swap two numbers without temp
+● 67. Check leap year
+● 68. Find factorial
+● 69. Strong number check
+● 70. Perfect number check
+● 71. Count consonants
+● 72. Count special characters
+● 73. Find duplicate characters
+● 74. Remove duplicate characters
+● 75. Find first non-repeating character
+● 76. Count frequency of characters
+● 77. Sort characters in string
+● 78. Find substring
+● 79. Replace substring
+● 80. String rotation check
+Phase 3: Array Logic Improvement (81–120)
+● 81. Sort array (bubble sort)
+● 82. Sort array (selection sort)
+● 83. Sort array (insertion sort)
+● 84. Find kth largest element
+● 85. Find kth smallest element
+● 86. Move zeros to end
+● 87. Move negatives to one side
+● 88. Rearrange positive and negative alternately
+● 89. Find majority element (brute force)
+● 90. Find element with max frequency
+● 91. Check array rotation
+● 92. Rotate array by K steps
+● 93. Split array and add first part to end
+● 94. Find equilibrium index
+● 95. Find subarray with given sum
+● 96. Find all subarrays
+● 97. Find largest subarray sum (brute force)
+● 98. Count subarrays
+● 99. Find longest increasing subarray
+● 100. Find longest decreasing subarray
+● 101. Find pairs with given sum
+● 102. Find triplets with given sum
+● 103. Count pairs divisible by K
+● 104. Find minimum distance between two numbers
+● 105. Replace each element by product of others
+● 106. Find leader elements
+● 107. Find peak element
+● 108. Find repeating number
+● 109. Find first repeating element
+● 110. Find missing & repeating number
+● 111. Check if array is palindrome
+● 112. Find maximum difference
+● 113. Count inversions (brute force)
+● 114. Find common elements in 3 arrays
+● 115. Merge sorted arrays
+● 116. Remove element at given index
+● 117. Insert element at given index
+● 118. Find median of array
+● 119. Count smaller elements
+● 120. Count greater elements
+Phase 4: Intro to DSA Thinking (121–160)
+● 121. Linear search
+● 122. Binary search
+● 123. Find first occurrence
+● 124. Find last occurrence
+● 125. Count occurrences (binary search)
+● 126. Two sum problem
+● 127. Best time to buy and sell stock
+● 128. Maximum consecutive ones
+● 129. Trapping rain water (logic only)
+● 130. Kadane’s algorithm (basic)
+● 131. Find minimum jumps
+● 132. Chocolate distribution problem
+● 133. Check anagram
+● 134. Group anagrams
+● 135. Valid parentheses (basic stack idea)
+● 136. Next greater element (brute force)
+● 137. Stock span problem (logic)
+● 138. Find duplicate using frequency array
+● 139. Find missing using XOR
+● 140. Longest common prefix
+● 141. Check balanced brackets
+● 142. Remove adjacent duplicates
+● 143. Count set bits
+● 144. Power of two check
+● 145. Reverse bits
+● 146. Find single number
+● 147. Find two non-repeating numbers
+● 148. Subset check
+● 149. Generate all subsets (basic recursion idea)
+● 150. Permutations of string
+● 151. Permutations of array
+● 152. Find minimum element in rotated array
+● 153. Find maximum element in rotated array
+● 154. Check if rotated sorted
+● 155. Sliding window max (brute force)
+● 156. Longest substring without repeating
+● 157. Count distinct elements in window
+● 158. Find duplicate using sorting
+● 159. Find intersection using two pointers
+● 160. Check if array can be partitioned
+Phase 5: Logical Challenges (161–200)
+● 161. Sudoku validity check
+● 162. Matrix addition
+● 163. Matrix subtraction
+● 164. Matrix multiplication
+● 165. Rotate matrix 90°
+● 166. Transpose matrix
+● 167. Check symmetric matrix
+● 168. Spiral matrix traversal
+● 169. Diagonal traversal
+● 170. Find row with max 1s
+● 171. Search in sorted matrix
+● 172. Pascal’s triangle
+● 173. Valid mountain array
+● 174. Happy number
+● 175. Excel column number
+● 176. Roman to integer
+● 177. Integer to Roman
+● 178. Add strings as numbers
+● 179. Multiply strings
+● 180. Count trailing zeros in factorial
+● 181. Power function
+● 182. Sieve of Eratosthenes
+● 183. Count primes
+● 184. Find nth Fibonacci (optimized)
+● 185. Decode string
+● 186. Encode string
+● 187. Zigzag conversion
+● 188. Valid palindrome (ignore symbols)
+● 189. Remove duplicates from sorted array
+● 190. Remove element in-place
+● 191. Longest palindrome substring (brute force)
+● 192. Find minimum window substring
+● 193. Climbing stairs
+● 194. House robber (logic)
+● 195. Coin change (basic)
+● 196. Target sum subsets
+● 197. Word pattern
+● 198. Isomorphic strings
+● 199. Check valid number
+● 200. Design your own logical problem
